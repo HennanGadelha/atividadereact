@@ -1,4 +1,4 @@
-#ativadade react
+#Atividade react
 
 realizar npm install
 
